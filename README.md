@@ -1,1 +1,1 @@
-This is just a test repo.
+This is just a test repo for Travis and Docker.
